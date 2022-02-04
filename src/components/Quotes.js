@@ -37,7 +37,7 @@ const Quotes = () => {
 
       <div id="buttons">
         <div className="social-media">
-          <a href="#" id="twet-quote">
+          <a href="https://twitter.com/therufusdrew" id="twet-quote">
             <span>
               <img
                 src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"
@@ -45,7 +45,7 @@ const Quotes = () => {
               />
             </span>
           </a>
-          <a href="#" id="tumlr-quote">
+          <a href="https://www.facebook.com/rufusdrew" id="tumlr-quote">
             <span>
               <img
                 src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"
