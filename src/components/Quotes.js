@@ -59,7 +59,7 @@ const Quotes = () => {
         </button>
       </div>
       <div id="text2">
-        <p>Developed By Kristyn</p>
+        <p>Developed By Rufus</p>
       </div>
     </div>
   );
